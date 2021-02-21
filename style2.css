@@ -1,0 +1,330 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.block1{
+    height:10vh;
+    background-color:white;
+}
+.img1{
+    height:90vh;
+    background-image:url(https://i.pinimg.com/564x/bd/66/1c/bd661c9893414a5939df4501a6e8529b.jpg);
+    background-size:cover;
+    background-position:center
+}
+.tf{
+    height:90vh;
+    background-color:#81899cbb;
+}
+.icon{
+    padding-left:255px;
+    padding-top:25px;
+    float:left;
+
+}
+.smallStr{
+    float:left;
+    padding-left:400px;
+    font-size:35px;
+    padding-left:25px;
+    padding-top:25px;
+}
+.h1STRICT{
+    text-align:center;
+    font-size:120px;
+    color:white;
+    padding-top:150px;
+}
+.line{
+    width:600px;
+    height:2px;
+    background-color:#2da1fa;
+    padding-left:700px;
+    margin:auto;
+}
+.text{
+    text-align:center;
+    font-size:25px;
+    color:white;
+    padding-top:24px;
+}
+.b1{
+    width:200px;
+    height:40px;
+    margin:auto;
+    padding-top:100px;
+}
+.Cta{
+    width:200px;
+    height:40px;
+    border:2px solid #2da1fa;
+    border-radius:2px;
+    background-color:Transparent;
+    font-size:22px;
+    color:white;
+    text-align:center
+}
+.Cta:hover{
+    border:2px solid #85caff;
+}
+.strelka{
+    margin:auto;
+    padding-top:15px;
+    padding-left:950px;
+    margin-top:220px; 
+}
+
+
+
+.gallery{
+	height: 100vh;
+	background-color: #efefef;
+}
+.gallery-title{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+.gallery-podtitle{
+	padding-top: 20px;
+	color: #555555;
+	font-size: 18px;
+	text-align: center;
+}
+.photos{
+	width: 1000px;
+	height: 450px;
+	margin: auto;
+	margin-top: 100px;
+}
+.photo{
+	background-size: cover;
+	background-position: center;
+	width: 300px;
+	height: 200px;
+	float: left;
+}
+.p1{
+	background-image: url(https://cdn.shopify.com/s/files/1/0994/0236/articles/siberian-husky.jpg?v=1502391918);
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.p2{
+	background-image: url(https://moderndogmagazine.com/sites/default/files/images/articles/top_images/husky2.jpg);
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.p3{
+	background-image: url(https://bestdogwalkerkelowna.com/wp-content/uploads/2019/12/white-and-black-siberian-husky-2853129.jpg);
+	margin-bottom: 50px;
+}
+.p4{
+	background-image: url(https://epi.azureedge.net/website-images/images/default-album/siberian-husky.jpg?sfvrsn=19bfd37b_2);
+	margin-right: 50px;
+}
+.p5{
+	background-image: url(https://www.usnews.com/dims4/USNEWS/598857c/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fe4%2F73%2F02cb3ef54a6eabafd1706e16f778%2F181004-dog-editorial.jpg);
+	margin-right: 50px;
+}
+.p6{
+	background-image: url(https://i.pinimg.com/originals/86/77/b6/8677b607f3c5d53588c3a12844d95224.png);
+}
+.photo-fon{
+	width: 300px;
+	height: 200px;
+	transition: background-color 0.3s ease;
+}
+.photo-fon:hover{
+	background-color: #2da1fa99;
+}
+
+
+
+
+
+
+.xxx{
+	height:250px;
+	background-color:#efefef;
+}
+.mytext{
+	width: 1000px;
+	font-size:50px;
+	text-align:center;
+	padding-top: 50px; 
+	color:black;
+	margin: auto;
+}
+.podtext2{
+	font-size: 16px;
+	color: #757575;
+	padding-top: 20px;
+}
+.ccc{
+	height:250px;
+}
+.внутренний{
+	width: 700px;
+	height:200px;
+	margin: auto;
+	padding-top: 50px;
+}
+.b77{
+	width:100px;
+	height:100px; 
+}
+.b88{
+	width:100px;
+	height:100px; 
+}
+.b99{
+	width:100px;
+	height:100px; 
+}
+.фотоблоки{
+	width:200px;
+	height:200px; 
+	float: left;
+	text-align: center;
+}
+.фотоблоки2{
+	width:200px;
+	height:200px; 
+	float: left;
+	text-align: center;
+	margin-left: 50px;
+}
+.фотоблоки3{
+	width:200px;
+	height:200px; 
+	float: left;
+	text-align: center;
+	margin-left: 50px;
+}
+.fotoh3{
+	font-size: 16px;
+}
+.fotop{
+	font-size: 14px;
+	color: #9f9f9f;
+}
+.cte{ 
+	font-size:15px;
+	text-align:center;
+	color:#9f9f9f;
+	float: left;
+	padding-left: 50px;
+	padding-top: 30px;
+}
+.logos{
+	width: 145px;
+	float: right;
+	padding-right: 50px;
+	padding-top: 30px;
+}
+.лого{
+	width: 25px;
+	height:25px;
+}
+.строчка{
+	height:10vh;
+}
+
+.road{
+	height: 100vh;
+	background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/empty-paved-road-at-sunset-in-the-chilean-patagonia-royalty-free-image-1591901619.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.road-fon{
+	height: 100vh;
+	background-color: #2a3549ee;
+}
+.road-title{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 50px;
+}
+.h2title{
+	font-weight: normal;
+}
+.road-podtext{
+	text-align: center;
+	color: #a5a5a5;
+	padding-top: 20px;
+	font-size: 18px;
+}
+.road-form{
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	padding-top: 50px;
+}
+.i1{
+	width: 578px;
+	height: 50px;
+	background-color: #00000000;
+	border: 1px solid #9f9f9f;
+	outline: none;
+	font-size: 16px;
+	padding-left: 20px;
+	color: white;
+}
+.i2{
+	width: 578px;
+	height: 50px;
+	background-color: #00000000;
+	border: 1px solid #9f9f9f;
+	outline: none;
+	font-size: 16px;
+	padding-left: 20px;
+	color: white;
+	margin-top: 20px;
+}
+.i3{
+	width: 578px;
+	height: 140px;
+	background-color: #00000000;
+	border: 1px solid #9f9f9f;
+	outline: none;
+	font-size: 16px;
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+	margin-top: 20px;
+	resize: none;
+}
+.inputs{
+	width: 600px;
+	height: 50px;
+}
+.checkbox{
+	color: white;
+	padding-top: 20px;
+	float: left;
+}
+.i4{
+	margin-right: 10px;
+}
+.button{
+	float: right;
+	padding-top: 10px;
+}
+.i5{
+	width: 140px;
+	height: 40px;
+	background-color: #00000000;
+	border: 1px solid #9f9f9f;
+	outline: none;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+}
+.i5:hover{
+	border: 1px solid #d5d5d5;
+}
